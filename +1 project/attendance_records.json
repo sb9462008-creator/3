@@ -1,0 +1,35 @@
+{
+    "xeku": [
+        {
+            "date": "2025-11-25",
+            "action": "completed",
+            "check_in_time": "2025-11-25 09:33:18",
+            "check_out_time": "2025-11-25 09:33:41",
+            "hours_worked": 0.01
+        },
+        {
+            "date": "2025-11-25",
+            "action": "completed",
+            "check_in_time": "2025-11-25 09:34:03",
+            "check_out_time": "2025-11-25 09:34:11",
+            "hours_worked": 0.0
+        },
+        {
+            "date": "2025-11-25",
+            "action": "completed",
+            "check_in_time": "2025-11-25 09:38:44",
+            "check_out_time": "2025-11-25 09:39:17",
+            "hours_worked": 0.01
+        }
+    ],
+    "Xeku": [],
+    "sanjaa": [
+        {
+            "date": "2025-11-25",
+            "action": "completed",
+            "check_in_time": "2025-11-25 15:24:44",
+            "check_out_time": "2025-11-25 15:25:17",
+            "hours_worked": 0.01
+        }
+    ]
+}
